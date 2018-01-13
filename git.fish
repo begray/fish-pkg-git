@@ -109,6 +109,7 @@ function gpoat
 end
 alias gpu 'git push upstream'
 alias gpv 'git push -v'
+alias gpsup 'git push --set-upstream origin (_current_branch)'
 
 alias gr 'git remote'
 alias gra 'git remote add'
